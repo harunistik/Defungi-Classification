@@ -6,7 +6,7 @@ Below are sample images from the dataset.
 ### Samples From Dataset
 <table>
   <tr>
-    <td><img src="data/train/TSH/H1_100a_1.jpg" width="180" alt="TSH"><br/><em>TSH</em></td>
+    <td><em>TSH</em><img src="data/train/TSH/H1_100a_1.jpg" width="180" alt="TSH"><br/></td>
     <td><img src="data/train/SHC/H5_101a_1.jpg" width="180" alt="SHC"><br/><em>SHC</em></td>
     <td><img src="data/train/GMA/H3_10a_10.jpg" width="180" alt="GMA"><br/><em>GMA</em></td>
   </tr>
